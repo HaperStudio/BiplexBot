@@ -1,2 +1,2 @@
-# BiplexBot
-Discord bot created by BiplexStudio
+# HåperX
+Discord bot created by HåperStudio
